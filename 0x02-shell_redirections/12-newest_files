@@ -1,0 +1,2 @@
+#!/bind/bash
+ls -l > list | uniq | sort
